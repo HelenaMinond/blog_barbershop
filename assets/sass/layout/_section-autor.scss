@@ -1,0 +1,16 @@
+.autor__descripcion{
+
+    &--parrafo{
+        margin: 3rem 0;
+        text-align: justify;
+        line-height: 40px;
+    }
+    &--fecha{
+        margin: 3rem 0;
+        text-align: justify;
+        line-height: 40px;
+    }
+    &--span{
+        color: $ruddy-pink;
+    }
+}

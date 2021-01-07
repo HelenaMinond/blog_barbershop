@@ -1,0 +1,18 @@
+.header{
+    background-image: url(../img/post-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}
+.header__titulo{
+    color: $white;
+    padding: 300px 0px;
+    text-align: center;
+}
+.header__icono{
+    position: relative;
+    color: #ffffff;
+    left: 50%;
+    margin-bottom: 3%;
+}
